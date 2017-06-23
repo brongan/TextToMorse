@@ -1,5 +1,5 @@
 # TextToMorse
-Command Line program that converts a inputed text string to morse code in audio and text
+Command Line program that converts an inputed text string to morse code in audio and text
 
 Credit for textToMorse.h Brent Frederisy.
 
